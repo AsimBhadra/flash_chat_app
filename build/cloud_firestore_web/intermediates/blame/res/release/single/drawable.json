@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/asimbhadra/AndroidStudioProjects/flash-chat-flutter/build/cloud_firestore_web/intermediates/res/merged/release/drawable/notification_bg.xml",
+        "source": "/home/asimbhadra/.gradle/caches/transforms-2/files-2.1/331630a23dfa1f0594bcf54d5352aa36/core-1.1.0/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/home/asimbhadra/AndroidStudioProjects/flash-chat-flutter/build/cloud_firestore_web/intermediates/res/merged/release/drawable/notification_icon_background.xml",
+        "source": "/home/asimbhadra/.gradle/caches/transforms-2/files-2.1/331630a23dfa1f0594bcf54d5352aa36/core-1.1.0/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/home/asimbhadra/AndroidStudioProjects/flash-chat-flutter/build/cloud_firestore_web/intermediates/res/merged/release/drawable/notification_tile_bg.xml",
+        "source": "/home/asimbhadra/.gradle/caches/transforms-2/files-2.1/331630a23dfa1f0594bcf54d5352aa36/core-1.1.0/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/home/asimbhadra/AndroidStudioProjects/flash-chat-flutter/build/cloud_firestore_web/intermediates/res/merged/release/drawable/notification_bg_low.xml",
+        "source": "/home/asimbhadra/.gradle/caches/transforms-2/files-2.1/331630a23dfa1f0594bcf54d5352aa36/core-1.1.0/res/drawable/notification_bg_low.xml"
+    }
+]

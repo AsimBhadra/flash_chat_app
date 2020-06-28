@@ -1,0 +1,14 @@
+# Referenced at /home/asimbhadra/AndroidStudioProjects/flash-chat-flutter/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:21
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at /home/asimbhadra/AndroidStudioProjects/flash-chat-flutter/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:26
+-keep class co.appbrewery.flash_chat.MainActivity { <init>(); }
+# Referenced at /home/asimbhadra/AndroidStudioProjects/flash-chat-flutter/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:79
+-keep class com.google.android.gms.common.api.GoogleApiActivity { <init>(); }
+# Referenced at /home/asimbhadra/AndroidStudioProjects/flash-chat-flutter/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:72
+-keep class com.google.firebase.auth.internal.FederatedSignInActivity { <init>(); }
+# Referenced at /home/asimbhadra/AndroidStudioProjects/flash-chat-flutter/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:51
+-keep class com.google.firebase.components.ComponentDiscoveryService { <init>(); }
+# Referenced at /home/asimbhadra/AndroidStudioProjects/flash-chat-flutter/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:84
+-keep class com.google.firebase.provider.FirebaseInitProvider { <init>(); }
+# Referenced at /home/asimbhadra/AndroidStudioProjects/flash-chat-flutter/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:21
+-keep class io.flutter.app.FlutterApplication { <init>(); }
